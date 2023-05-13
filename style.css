@@ -13,6 +13,7 @@ header {
   padding: 5px 10px 5px 10px;
   font-size: 36px;
   text-decoration: none;
+  color: yellow;
 }
 
 .link-header:hover {
@@ -30,6 +31,7 @@ main {
   margin: 0 auto;
   justify-content: center;
   align-items: center;
+  background-color: aqua;
 }
 
 .container {
